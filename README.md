@@ -17,9 +17,8 @@ Sono uno sviluppatore web appassionato di tecnologie front-end e back-end. Amo c
 
 ## 📫 Contatti
 
-- Email: 
+- Email: giovanni.greggio.dev@gmail.com
 - <a href='https://www.linkedin.com/in/giovanni-greggio-262b7015b/'>LinkedIn</a>
-- Portfolio: 
 
 ---
 
