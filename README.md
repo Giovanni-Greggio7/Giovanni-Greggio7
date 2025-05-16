@@ -1,4 +1,4 @@
-# 👋 Ciao, sono [Il Tuo Nome]!
+# 👋 Ciao, sono Giovanni Greggio!
 
 Sono uno sviluppatore web appassionato di tecnologie front-end e back-end. Amo costruire applicazioni moderne, performanti e ben strutturate con stack JavaScript/TypeScript.
 
@@ -18,7 +18,7 @@ Sono uno sviluppatore web appassionato di tecnologie front-end e back-end. Amo c
 ## 📫 Contatti
 
 - Email: 
-- LinkedIn: 
+- LinkedIn: <a href='https://www.linkedin.com/in/giovanni-greggio-262b7015b/'/>
 - Portfolio: 
 
 ---
